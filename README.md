@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-*This is a school project by Seval Kayikci.*
+*This is a school project by Seval Kayikci and Elif Ergün[https://github.com/elferg].*
 
 Seval Kayikci - [sevalkayikci@gmail.com](mailto:sevalkayikci@gmail.com)
 
